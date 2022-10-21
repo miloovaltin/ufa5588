@@ -1,16 +1,16 @@
 {
-"name": "ufa5588",
-"theme": "ufa5588",
-"version": "5.4.7",
-"description": "ufa5588 สมัครเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
-"keywords": [
-"ufa5588",
-"ufa5588 เครดิตฟรี",
-"ufa5588 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufa5588",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufa5588",
+  "theme": "ufa5588",
+  "version": "5.5.0",
+  "description": "ufa5588 สมัครเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "ufa5588",
+    "ufa5588 เครดิตฟรี",
+    "ufa5588 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufa5588",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
